@@ -3,13 +3,12 @@
 ###
 
 <p align="left">
-Electrical Engineering student at UFRN, passionate about Embedded Systems, Electronics, and Artificial Intelligence.<br><br>
+Electrical Engineering student at UFRN with a growing interest in Embedded Systems and Artificial Intelligence.
 
-Currently building my foundations in programming, electronics, and computational thinking through academic projects, personal studies, and practical experimentation.<br><br>
+Currently at the beginning of my programming journey, continuously learning and developing my skills through academic projects, personal studies, and hands-on experimentation. My goal is to build a strong foundation in software, electronics, and intelligent systems, with a focus on Embedded AI and Edge Computing.
 
-My goal is to work with Embedded Systems, Edge AI, and intelligent engineering solutions, combining hardware and software to solve real-world problems.<br><br>
+This GitHub documents my learning process, projects, and technical growth as an engineering student.
 
-This GitHub documents my learning journey, projects, experiments, and technical growth as an engineering student.
 
 </p>
 
