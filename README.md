@@ -1,24 +1,23 @@
-<h2 align="left">std::cout << "CARLOS EDUARDO BARBOSA DA SILVA";</h2>
+<h2 align="left">std::cout << "CARLOS EDUARDO BARBOSA DA SILVA" << std::endl;</h2>
 
 ###
 
-<p align="left">
-Electrical Engineering student at UFRN with a growing interest in Embedded Systems and Artificial Intelligence.
-
-Currently at the beginning of my programming journey, continuously learning and developing my skills through academic projects, personal studies, and hands-on experimentation. My goal is to build a strong foundation in software, electronics, and intelligent systems, with a focus on Embedded AI and Edge Computing.
-
-This GitHub documents my learning process, projects, and technical growth as an engineering student.
-
-
-</p>
+<div style="max-width: 700px; margin: 0 auto; text-align: justify;">
+  <p>
+    Electrical Engineering student at UFRN, Member of the IEEE student branch at IES, with a growing interest in Embedded Systems and Artificial Intelligence. Currently at the beginning of my programming journey, continuously learning and developing my skills through academic projects, personal studies, and hands-on experimentation. My goal is to build a strong foundation in software, electronics, and intelligent systems, with a focus on Embedded AI and Edge Computing. 
+    This GitHub documents my learning process, projects, and technical growth as an engineering student.
+  </p>
+</div>
 
 ###
 
-<br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carlos-eb-silva/carlos-eb-silva/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/carlos-eb-silva/carlos-eb-silva/languages-output/languages.svg" height="145" alt="languages graph" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-eb-silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eb-silva&layout=compact&langs_count=8&theme=radical"/>
+
 </div>
 
 ###
@@ -101,7 +100,11 @@ This GitHub documents my learning process, projects, and technical growth as an 
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6cXFsNnZiOHZkdzl6MTYxN2t0aGZjeXJtemVmYmZyZnE0eGVqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6pJNYBYSMFod2/giphy.gif" />
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp6cXFsNnZiOHZkdzl6MTYxN2t0aGZjeXJtemVmYmZyZnE0eGVqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6pJNYBYSMFod2/giphy.gif" />
+</div>
+
+###
 
 <h2 align="left">GitHub Activity 🐍</h2>
 
@@ -113,14 +116,14 @@ This GitHub documents my learning process, projects, and technical growth as an 
 
 <div align="center">
 
-```cpp
 while(learning)
 {
-    build();
-    test();
-    improve();
+  build();
+  test();
+  improve();
+
+  std::cout << "SUCESS";
 }
-```
 
 </div>
 
