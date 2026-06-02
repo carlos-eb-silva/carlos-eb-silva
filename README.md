@@ -54,3 +54,17 @@
 <img src="https://raw.githubusercontent.com/carlos-eb-silva/carlos-eb-silva/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=93&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Eletrical C.E">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Eletrical%20C.E&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
