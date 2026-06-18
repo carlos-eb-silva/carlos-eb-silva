@@ -2,7 +2,7 @@
 
 <div style="max-width: 700px; margin: 0 auto; text-align: justify;">
   <p>
-    Electrical Engineering student at UFRN (1st semester), Member of the IEEE Student Branch at IES (Industrial Electronics Society).
+    Electrical Engineering student at UFRN, Member of the IEEE Student Branch at IES (Industrial Electronics Society).
     Focused on Embedded Systems and Artificial Intelligence, with a long-term interest in Embedded AI and Edge Computing.
     This GitHub documents my learning process, projects, and technical growth as an engineering student.
   </p>
